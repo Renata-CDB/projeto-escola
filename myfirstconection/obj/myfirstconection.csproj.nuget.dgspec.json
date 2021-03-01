@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection\\myfirstconection.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.Data\\myfirstconection.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.Data\\myfirstconection.Data.csproj",
+        "projectName": "myfirstconection.Data",
+        "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.Data\\myfirstconection.Data.csproj",
+        "packagesPath": "C:\\Users\\Usuario 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.domain\\myfirstconection.domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.domain\\myfirstconection.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.domain\\myfirstconection.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.domain\\myfirstconection.domain.csproj",
+        "projectName": "myfirstconection.domain",
+        "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.domain\\myfirstconection.domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection\\myfirstconection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection\\myfirstconection.csproj",
+        "projectName": "myfirstconection",
+        "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection\\myfirstconection.csproj",
+        "packagesPath": "C:\\Users\\Usuario 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.Data\\myfirstconection.Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.Data\\myfirstconection.Data.csproj"
+              },
+              "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.domain\\myfirstconection.domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario 1\\source\\repos\\myfirstconection\\myfirstconection.domain\\myfirstconection.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

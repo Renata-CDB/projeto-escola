@@ -1,0 +1,15 @@
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\obj\Debug\netcoreapp3.1\myfirstconection.Data.csprojAssemblyReference.cache
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\obj\Debug\netcoreapp3.1\myfirstconection.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\obj\Debug\netcoreapp3.1\myfirstconection.Data.AssemblyInfo.cs
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\obj\Debug\netcoreapp3.1\myfirstconection.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\bin\Debug\netcoreapp3.1\myfirstconection.Data.deps.json
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\bin\Debug\netcoreapp3.1\myfirstconection.Data.runtimeconfig.json
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\bin\Debug\netcoreapp3.1\myfirstconection.Data.runtimeconfig.dev.json
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\bin\Debug\netcoreapp3.1\myfirstconection.Data.dll
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\bin\Debug\netcoreapp3.1\myfirstconection.Data.pdb
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\bin\Debug\netcoreapp3.1\myfirstconection.domain.dll
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\bin\Debug\netcoreapp3.1\myfirstconection.domain.pdb
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\obj\Debug\netcoreapp3.1\myfirstconection.Data.csproj.CopyComplete
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\obj\Debug\netcoreapp3.1\myfirstconection.Data.dll
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\obj\Debug\netcoreapp3.1\myfirstconection.Data.pdb
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.Data\obj\Debug\netcoreapp3.1\myfirstconection.Data.genruntimeconfig.cache

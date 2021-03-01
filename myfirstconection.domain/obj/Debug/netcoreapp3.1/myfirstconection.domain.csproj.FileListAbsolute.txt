@@ -1,0 +1,9 @@
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.domain\bin\Debug\netcoreapp3.1\myfirstconection.domain.deps.json
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.domain\bin\Debug\netcoreapp3.1\myfirstconection.domain.dll
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.domain\bin\Debug\netcoreapp3.1\myfirstconection.domain.pdb
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.domain\obj\Debug\netcoreapp3.1\myfirstconection.domain.csprojAssemblyReference.cache
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.domain\obj\Debug\netcoreapp3.1\myfirstconection.domain.AssemblyInfoInputs.cache
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.domain\obj\Debug\netcoreapp3.1\myfirstconection.domain.AssemblyInfo.cs
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.domain\obj\Debug\netcoreapp3.1\myfirstconection.domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.domain\obj\Debug\netcoreapp3.1\myfirstconection.domain.dll
+C:\Users\Usuario 1\source\repos\myfirstconection\myfirstconection.domain\obj\Debug\netcoreapp3.1\myfirstconection.domain.pdb
